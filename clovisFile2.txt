@@ -1,0 +1,22 @@
+<Doctype!>
+<html>
+
+<head>
+
+   <title></title>
+</head>
+
+<body>
+    <h3>Alexander The Great<h3>
+
+    <p>
+         Alexander’s military genius is undisputed. He improved the fine army inherited from his father, Philip, by the addition of allied forces; he strengthened the cavalry arm,
+       utilized weapons specialists, and employed a corps of engineers; he was invincible in both siege warfare and set battles. 
+     <br /> His movements were marked by speed; his logistical, intelligence, and communications operations were flawless; and his ability to improvise was unrivaled. <br />
+      Yet he was careful in strategy: rather than strike deep into Asia immediately, he spent nearly two years securing the coastal areas of Asia Minor and the Levant in order 
+      to ensure that Persian naval forces would not interdict his lines to Europe.
+     <br /> Bit by bit he wore away the western sections of the Persian Empire before driving into Mesopotamia and the Iranian plateau.
+    </p>
+</body>
+
+</html>
