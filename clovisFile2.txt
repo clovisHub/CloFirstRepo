@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <h3>Alexander The Great<h3>
+    <h3>Alexander The Great man of the ancient world<h3>
 
     <p>
          Alexander’s military genius is undisputed. He improved the fine army inherited from his father, Philip, by the addition of allied forces; he strengthened the cavalry arm,
